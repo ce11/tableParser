@@ -1,0 +1,22 @@
+{
+  "name": "tableparser",
+  "version": "1.0.0",
+  "description": "parse an html table to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ce11/tableParser.git"
+  },
+  "author": "ce11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ce11/tableParser/issues"
+  },
+  "homepage": "https://github.com/ce11/tableParser#readme",
+  "dependencies": {
+    "node-table-to-csv": "^0.1.0"
+  }
+}
